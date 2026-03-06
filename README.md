@@ -60,10 +60,6 @@ Tech Innovators offered a range of benefits including health insurance, gym memb
 ---
 
 
-Dashboard Overview
-![Benefits Dashboard](assets/Benefits Dashboard.png)
-![Performance Dashboard](assets/Performance Dashboard.PNG)
-
 ## Recommendations
 1. **Make training mandatory** — the 37.87% vs 4.68% performance gap is too significant to ignore. Introduce flexible learning formats and tie completion to performance review cycles
 2. **Promote wellness benefits** — Gym Membership has the highest satisfaction despite not being the most used. Targeted internal communications could close this gap at no additional cost
@@ -71,6 +67,10 @@ Dashboard Overview
 4. **Address the IT paradox** — highest benefit usage but below-average performance signals a structural training gap that warrants a focused departmental review
 
 ---
+
+Dashboard Overview
+![Benefits Dashboard](assets/Benefits-Dashboard.png)
+![Performance Dashboard](assets/Performance-Dashboard.PNG)
 
 ## Tools & Technologies
 | Tool | Purpose |
