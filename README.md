@@ -59,6 +59,9 @@ Tech Innovators offered a range of benefits including health insurance, gym memb
 - The small number of senior employees signals a **potential future leadership gap**
 
 ---
+Dashboard Overview
+[Benefits Dashboard](assets/Benefits Dashboard.png)
+[Performance Dashboard](assets/Performance Dashboard.PNG)
 
 ## Recommendations
 1. **Make training mandatory** — the 37.87% vs 4.68% performance gap is too significant to ignore. Introduce flexible learning formats and tie completion to performance review cycles
