@@ -57,11 +57,12 @@ Tech Innovators offered a range of benefits including health insurance, gym memb
 - Employee distribution is concentrated in the **31–44 age group** — the organisation's core workforce
 - A **positive age-value correlation** exists — performance improves with experience and tenure
 - The small number of senior employees signals a **potential future leadership gap**
-
 ---
+
+
 Dashboard Overview
-[Benefits Dashboard](assets/Benefits Dashboard.png)
-[Performance Dashboard](assets/Performance Dashboard.PNG)
+![Benefits Dashboard](assets/Benefits Dashboard.png)
+![Performance Dashboard](assets/Performance Dashboard.PNG)
 
 ## Recommendations
 1. **Make training mandatory** — the 37.87% vs 4.68% performance gap is too significant to ignore. Introduce flexible learning formats and tie completion to performance review cycles
@@ -84,12 +85,6 @@ Dashboard Overview
 - Datasets joined on Employee ID in Tableau
 - Custom calculated field: Age Group segmentation using IF statement in Tableau
 - All datasets available in the `data/` folder on Google Drive
-
----
-
-## Dashboards
-- **Employee Benefits Overview** — benefit utilisation by type, satisfaction rates, departmental breakdown
-- **Employee Performance Dashboard** — QPR trends, training impact, age group and departmental performance
 
 ---
 
